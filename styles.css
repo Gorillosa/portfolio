@@ -1,0 +1,35 @@
+body
+
+ {
+
+background-color: #24811c;
+
+ }
+
+@media only screen and (max-width: 600px)
+
+ {
+
+body
+
+ {
+
+background-color: #dce4ef;
+
+ }
+
+ }
+
+ .nav {
+     width: 90%;
+     margin: 0 auto;
+ }
+
+ header {
+     background-color: darkcyan;
+ }
+
+ nav {
+     float: right;
+     
+ }
